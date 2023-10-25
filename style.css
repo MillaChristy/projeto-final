@@ -21,6 +21,7 @@ header {
 }
 
 #menuNavegacao {
+    position: fixed;
     display: flex; 
     gap: 40px; 
 }
